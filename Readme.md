@@ -1,12 +1,12 @@
-![Shadowsocks](https://github.com/teddysun/shadowsocks_install/raw/master/shadowsocks.png)
 # Auto install Shadowsocks Server
 
 使用方法
 使用root用户登录，运行以下命令：
 
-wget --no-check-certificate -O shadowsocks-libev.sh 
-https://github.com/SatoshiAkiraka/shadowsocks_install/raw/master/shadowsocks-libev.sh
-chmod +x shadowsocks-libev.sh./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
+#wget --no-check-certificate -O shadowsocks-libev.sh https://github.com/SatoshiAkiraka/shadowsocks_install/raw/master/shadowsocks-libev.sh
+chmod +x shadowsocks-libev.sh
+./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
+
 
 
 
