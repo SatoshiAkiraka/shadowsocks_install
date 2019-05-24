@@ -73,7 +73,7 @@ Shadowsocks-Go 版：
 /etc/shadowsocks-go/config.json
 
 Shadowsocks-libev 版：
-/etc/shadowsocks-libev/config.json
+/etc/shadowsocks-libev/config.json     centos7 service shadowsocks restart
 
 
 
